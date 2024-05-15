@@ -1,0 +1,12 @@
+.c{
+    background-image: url("/images/phone.webp");
+    height: 700px;
+    width: auto;
+    background-repeat: repeat-x;
+    background-size: cover;
+    display: flex;
+    font-family: monospace;
+    color: rgb(24, 27, 28);
+    background-position: center;
+  
+  }

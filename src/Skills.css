@@ -1,0 +1,12 @@
+.e{
+    background-image: url("/images/skills.webp");
+    width: 1500px;
+    height: 850px;
+    background-size: cover;
+    background-repeat: repeat;
+    display: flex;
+    font-family: monospace;
+    background-color: black;
+    color: beige;
+    background-position: center;
+  }

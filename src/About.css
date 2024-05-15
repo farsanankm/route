@@ -1,0 +1,11 @@
+.q{
+    background-image: url("/images/about.png");
+    height: 700px;
+    width: 1500px;
+    background-size: cover;
+    display: flex;
+    font-family: monospace;
+    background-color: black;
+    color: beige;
+    background-position: center;
+}

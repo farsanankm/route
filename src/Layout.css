@@ -1,0 +1,7 @@
+.mainl{
+    background-image: url("/images/portfolio\ lady.jpg");
+    height:auto;
+    width: auto;
+    background-size: cover;
+    display: flex;
+  }

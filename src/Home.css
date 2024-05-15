@@ -1,0 +1,12 @@
+.b{
+   background-image: url("/images/layout.png");
+   width: auto;
+   height: 700px;
+   background-size: cover;
+   background-repeat: no-repeat;
+   display: flex;
+   font-family: fantasy;
+   background-color: black;
+   color: beige;
+   background-position: center;
+  }

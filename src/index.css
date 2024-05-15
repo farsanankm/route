@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* .mainl{
+  background-image: url("/images/portfolio\ lady.jpg");
+  height: 800px;
+  width: 700px;
+  background-size: cover;
+
+} */
+/* .sub A{
+  display: inline;
+}
+.c{
+  background-image: url("/images/phone.webp");
+  height: 700px;
+  width: 700px;
+  background-size: cover;
+  
+
+}
+.d{
+  background-image: url("/images/qualification.webp");
+  height: 700px;
+  width: 700px;
+  background-size: cover;
+  
+
+}
+.e{
+  background-image: url("/images/skills.webp");
+  height: 700px;
+  width: 700px;
+  background-size: cover;
+  
+
+}
+.g{
+  display: inline;
+}   */

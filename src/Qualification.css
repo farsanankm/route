@@ -1,0 +1,11 @@
+.d{
+    background-image: url("/images/r\ quali.jpg");
+    width: 1300px;
+   height: 700px;
+   background-size: cover;
+   background-repeat: no-repeat;
+   font-family: monospace;
+   background-color: black;
+   color: black;
+   background-position: center;
+  }
