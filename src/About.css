@@ -1,11 +1,21 @@
 .q{
-    background-image: url("/images/about.png");
-    height: 700px;
-    width: 1500px;
+    /* background-image: url("/images/about.png");
+    height: 300px;
+    width: 300px;
     background-size: cover;
     display: flex;
     font-family: monospace;
     background-color: black;
     color: beige;
-    background-position: center;
+    background-position: center; */
+
+    background-color: aliceblue;
+   height: 400px;
+   width: 700px;
+   margin-left: 350px;
+   margin-top: 150px;
+   text-align: center;
+   border-radius: 5%;
+   padding-top: 7%;
+
 }

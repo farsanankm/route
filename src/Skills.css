@@ -1,7 +1,7 @@
 .e{
-    background-image: url("/images/skills.webp");
-    width: 1500px;
-    height: 850px;
+     /* background-image: url("/images/idea.png");
+    width: 500px;
+    height: 500px;
     background-size: cover;
     background-repeat: repeat;
     display: flex;
@@ -9,4 +9,14 @@
     background-color: black;
     color: beige;
     background-position: center;
+    background-position: center;  */
+    background-color: aliceblue;
+    height: 400px;
+    width: 700px;
+    margin-left: 350px;
+    margin-top: 150px;
+    text-align: center;
+    border-radius: 5%;
+    padding-top: 7%;
+
   }

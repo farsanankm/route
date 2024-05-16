@@ -1,7 +1,12 @@
-.mainl{
-    background-image: url("/images/portfolio\ lady.jpg");
-    height:auto;
-    width: auto;
+.K{
+    /* background-image: url("/images/m\ lay.jpg"); */
+    background-color: rgb(39, 125, 106);
     background-size: cover;
-    display: flex;
+    height: 750px;
+    width: auto;
+    
+    /* background-size: cover;
+    background-repeat: no-repeat; */
+
+   
   }

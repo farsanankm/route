@@ -5,6 +5,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
 import { Link, Outlet } from 'react-router-dom';
 
 
+
 function BasicExample() {
   return (
     <>
@@ -14,30 +15,46 @@ function BasicExample() {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mx-auto gap-5">
-              <Link to='/home'>
-                <h1>Home</h1>
-              </Link>
-
             
-                <Link to='/ABOUT'>
-                <h1>About</h1>
+                
+              <Link to='/home'>
+                <h1 style={{fontSize:"20px", textDecorationLine:"none",color:'black'}}>Home</h1>
               </Link>
+               
+            
+               
+               <Link to='/ABOUT'>
+                <h1 style={{fontSize:"20px", textDecorationLine:"none",color:'black'}}>About</h1>
+              </Link>
+               
               
 
 
-              <Link to='/Qualification'>
-                <h1>Qualification</h1>
+             
+             <Link to='/Qualification'>
+                <h1 style={{fontSize:"20px", textDecorationLine:"none",color:'black'}}>Qualification</h1>
               </Link>
 
+             
 
+            
               <Link to='/Skills'>
-                <h1>Skills</h1>
+                <h1 style={{fontSize:"20px", textDecorationLine:"none",color:'black'}}>Skills</h1>
               </Link>
+             
 
 
-              <Link to='/Contact'>
-                <h1>Contact</h1>
+            
+             <Link to='/Contact'>
+                <h1 style={{fontSize:"20px", textDecorationLine:"none",color:'black',animation:"infinite"}}>Contact</h1>
               </Link>
+
+            
+             <Link to='/Resume'>
+                <h1 style={{fontSize:"20px", textDecorationLine:"none",color:'black'}}>Resume</h1>
+              
+              </Link>
+             
             </Nav>
           </Navbar.Collapse>
         </Container>

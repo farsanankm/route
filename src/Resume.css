@@ -1,0 +1,18 @@
+.r{
+    /* background-color: aquamarine;
+    color: beige;
+    background-image: url("/images/blank\ page.jpeg");
+    background-size: cover;
+    height: 500px;
+    width: 500px; */
+
+    background-color: aliceblue;
+   height: 400px;
+   width: 700px;
+   margin-left: 350px;
+   margin-top: 150px;
+   text-align: center;
+   border-radius: 5%;
+   padding-top: 7%;
+
+}

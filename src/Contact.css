@@ -1,12 +1,20 @@
 .c{
-    background-image: url("/images/phone.webp");
-    height: 700px;
-    width: auto;
+    /* background-image: url("/images/phone.webp");
+    height: 500px;
+    width: 500px;
     background-repeat: repeat-x;
     background-size: cover;
     display: flex;
     font-family: monospace;
     color: rgb(24, 27, 28);
     background-position: center;
-  
+   */
+   background-color: aliceblue;
+   height: 400px;
+   width: 700px;
+   margin-left: 350px;
+   margin-top: 150px;
+   text-align: center;
+   border-radius: 5%;
+   padding-top: 7%;
   }
