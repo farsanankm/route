@@ -1,0 +1,6 @@
+.github-gif {
+    width: 600px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Centering the image horizontally */
+    margin: 20px auto; /* Adjust the margin to position it vertically */
+  }

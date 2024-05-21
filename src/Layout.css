@@ -1,12 +1,17 @@
 .K{
-    /* background-image: url("/images/m\ lay.jpg"); */
-    background-color: rgb(39, 125, 106);
+    
+    /* background-color: rgb(39, 125, 106);
     background-size: cover;
     height: 750px;
-    width: auto;
+    width: auto; */
     
-    /* background-size: cover;
-    background-repeat: no-repeat; */
+   background-image: url('/src/images/main\ page.jpg');
+   width:1488px;
+   height:737px;
+   background-size: cover;
+   background-position: center;
+
+   
 
    
   }

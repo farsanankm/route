@@ -10,11 +10,12 @@
     background-position: center;
    */
    background-color: aliceblue;
-   height: 400px;
-   width: 700px;
+   height: 60px;
+   width: 300px;
    margin-left: 350px;
    margin-top: 150px;
    text-align: center;
    border-radius: 5%;
-   padding-top: 7%;
+   /* padding-top: 7%; */
+   font-family: cursive;
   }

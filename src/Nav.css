@@ -1,11 +1,15 @@
 .nav{
-    float: left;
-    padding: 12px;
+    
+   
     text-align: center;
-    position: relative;
-    color: black;
-    background-color: aquamarine;
-    
-    
-    
+    padding: 30px;
+    margin-left: 300px;
+    size: 50px;
+    /* position: relative;
+    color: black; */
+    /* background-color: aquamarine;
+    background-image: url("images/main\ page.jpg");
+    width:1480px;
+    height:740px;
+     */
 }

@@ -1,3 +1,13 @@
+
+.h{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   background-color: rgb(33, 66, 123);
+
+   
+}
+
 .b{
    /* background-image: url("/images/layout.png");
    width: 500px;
@@ -10,14 +20,22 @@
    color: beige;
    background-position: center;
    text-align: center; */
-   background-color: aliceblue;
-   height: 400px;
-   width: 700px;
-   margin-left: 350px;
-   margin-top: 150px;
+   background-color:rgb(228, 235, 247);
+   width:400px;
+   height:400px;
+   margin-left: 500px;
+   margin-top: 150px; 
+   margin-bottom: 100px;
+   border-radius: 2%;
+   font-family: serif;
    text-align: center;
-   border-radius: 5%;
-   padding-top: 7%;
-   
+   padding-top: 120px;
+   color: rgb(23, 23, 24);
   }
+
+ .g{
+   background-image: url('/src/images/home\ img.jpeg');
+   margin-right: 400px;
+   margin-top: 50px;
+ }
  
