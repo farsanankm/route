@@ -1,3 +1,16 @@
+.x{
+    background-color:rgb(33, 66, 123) ;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 800px;
+    height: 400px;
+    margin-left: 400px;
+    margin-top: 100px;
+    border-radius: 2%;
+}
+
+
 .c{
     /* background-image: url("/images/phone.webp");
     height: 500px;
@@ -10,12 +23,14 @@
     background-position: center;
    */
    background-color: aliceblue;
-   height: 60px;
-   width: 300px;
-   margin-left: 350px;
+   height: 300px;
+   width: 700px;
+   /* margin-left: 350px;
    margin-top: 150px;
-   text-align: center;
-   border-radius: 5%;
-   /* padding-top: 7%; */
-   font-family: cursive;
+   text-align: center; */
+   border-radius: 3%;
+   padding-top: 2%;
+   font-family: serif;
+   padding-left: 3%;
+   
   }

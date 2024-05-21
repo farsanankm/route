@@ -4,6 +4,11 @@
    align-items: center;
    justify-content: space-around;
    background-color: rgb(33, 66, 123);
+   width: 650px;
+   height: 500px;
+   margin-left: 400px;
+   margin-top: 50px;
+   border-radius: 2%;
 
    
 }
@@ -21,9 +26,9 @@
    background-position: center;
    text-align: center; */
    background-color:rgb(228, 235, 247);
-   width:400px;
+   width:500px;
    height:400px;
-   margin-left: 500px;
+   margin-left: 90px;
    margin-top: 150px; 
    margin-bottom: 100px;
    border-radius: 2%;
@@ -37,5 +42,6 @@
    background-image: url('/src/images/home\ img.jpeg');
    margin-right: 400px;
    margin-top: 50px;
+   border-radius: 2%;
  }
  
