@@ -4,9 +4,9 @@
    align-items: center;
    justify-content: space-around;
    background-color: rgb(33, 66, 123);
-   width: 650px;
+   width: 500px;
    height: 500px;
-   margin-left: 400px;
+   margin-left: 900px;
    margin-top: 50px;
    border-radius: 2%;
 
@@ -25,23 +25,26 @@
    color: beige;
    background-position: center;
    text-align: center; */
-   background-color:rgb(228, 235, 247);
+   /* background-color:rgb(228, 235, 247); */
    width:500px;
    height:400px;
-   margin-left: 90px;
-   margin-top: 150px; 
+   margin-left:50px;
+   margin-top: 10px; 
    margin-bottom: 100px;
    border-radius: 2%;
    font-family: serif;
    text-align: center;
    padding-top: 120px;
    color: rgb(23, 23, 24);
+   color: aliceblue;
   }
 
  .g{
    background-image: url('/src/images/home\ img.jpeg');
-   margin-right: 400px;
-   margin-top: 50px;
+   margin-right: 1000px;
+   margin-top: 2px;
    border-radius: 2%;
+   margin-left: 250px;
+   margin-left: 50px;
  }
  

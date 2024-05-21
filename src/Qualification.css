@@ -22,14 +22,13 @@
    color: black;
    background-position: center;  */
 
-   background-color: aliceblue;
+   /* background-color: aliceblue; */
    height: 300px;
    width: 700px;
-   /* margin-left: 350px;
-   margin-top: 150px;
-   text-align: center; */
+   padding-top: 600px;
    border-radius: 3%;
    padding-top: 2%;
    font-family: serif;
    padding-left: 3%;
+   color: aliceblue;
   }

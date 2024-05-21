@@ -9,7 +9,10 @@ function Skills() {
       <ul >
         <li>ADAPTABLE</li>
         <li>LEADERING</li>
-        <li>TALKATIVE</li>
+        <li>COLLABURATION</li>
+        <li>ATTENTION TO DETAIL</li>
+        <li>ORGANIZATION</li>
+        <li>COMMUNICATION</li>
        
       </ul>
       </div>

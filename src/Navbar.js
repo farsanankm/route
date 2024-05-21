@@ -14,7 +14,7 @@ function BasicExample() {
     <div className="nav">
 
     <Navbar expand="lg" className="bg-body-tertiary">
-        <Container className ="gap-5" style={{width:"1000px"}}>
+        <Container className ="gap-5" style={{width:"1000px"}}>y
           <Navbar.Brand href="#home"><h3 style={{fontFamily:"serif"}}>PORTFOLIO</h3></Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">

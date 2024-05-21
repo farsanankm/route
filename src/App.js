@@ -18,7 +18,12 @@ function App() {
           Learn React
         </a>
       </header>
+      {/* <div className="App">
+    <EmailLinkComponent />
+     </div> */}
+ 
     </div>
+   
   );
 }
 

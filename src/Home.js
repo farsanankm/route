@@ -10,7 +10,7 @@ function Home() {
       <p>
       <TypeAnimation
           sequence={[
-            'heyyyyy..........',
+            'heyy welcome to my portfolio iam farsana .....................',
             1000,
 
             // Same substring at the start will only be typed out once, initially
@@ -25,9 +25,7 @@ function Home() {
         />
 
       </p>
-      <p style={{fontSize:'40px'}}>
-        I'm farsana nkm
-      </p>
+     
       </div>
       <div className="g">
        <img src={image} alt="asdhakhsjdk"  width={"300px"}/>
