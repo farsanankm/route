@@ -1,31 +1,17 @@
 
 .h{
-   display: flex;
+   display: block;
    align-items: center;
    justify-content: space-around;
-   background-color: rgb(33, 66, 123);
-   width: 500px;
-   height: 500px;
-   margin-left: 900px;
-   margin-top: 50px;
+   width: 700px;
+   height: 100px;
+   margin-top: 100px;
    border-radius: 2%;
 
    
 }
 
 .b{
-   /* background-image: url("/images/layout.png");
-   width: 500px;
-   height: 500px;
-   background-size: cover;
-   background-repeat: no-repeat;
-   display: flex;
-   font-family: monospace;
-   background-color: black;
-   color: beige;
-   background-position: center;
-   text-align: center; */
-   /* background-color:rgb(228, 235, 247); */
    width:500px;
    height:400px;
    margin-left:50px;
@@ -40,11 +26,25 @@
   }
 
  .g{
-   background-image: url('/src/images/home\ img.jpeg');
-   margin-right: 1000px;
-   margin-top: 2px;
-   border-radius: 2%;
-   margin-left: 250px;
-   margin-left: 50px;
+   color: aliceblue;
+   margin-left: 100px;
+   font-family: serif;
+   margin-top: 200px;
+   
  }
+ .t{
+   color: aliceblue;
+   font-family: serif;
+   margin-left: 600px;
+   width: 700px;
+   margin-top: 190px;
+ }
+ .im{
+
+ }
+ .v{
+    margin-top: 20px;
+    /* display: flex; */
+ }
+ 
  

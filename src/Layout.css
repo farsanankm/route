@@ -6,10 +6,11 @@
     width: auto; */
     
    background-image: url('/src/images/main\ page.jpg');
-   width:1488px;
-   height:737px;
+   width:1470px;
+   height:1550px;
    background-size: cover;
    background-position: center;
+   background-attachment: fixed;
 
    
 
